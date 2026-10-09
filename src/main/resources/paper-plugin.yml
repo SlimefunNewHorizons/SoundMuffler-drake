@@ -1,0 +1,15 @@
+name: SoundMuffler
+description: Muffles nearby sound
+version: 11.0-Drake
+api-version: '26.2'
+main: dev.j3fftw.soundmuffler.SoundMuffler
+dependencies:
+  server:
+    Slimefun:
+      load: BEFORE
+      required: true
+      join-classpath: true
+    ProtocolLib:
+      load: BEFORE
+      required: true
+      join-classpath: true
