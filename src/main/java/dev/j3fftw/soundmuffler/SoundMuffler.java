@@ -1,7 +1,6 @@
 package dev.j3fftw.soundmuffler;
 
 
-import com.github.drakescraft_labs.labupdate.DrakesLabsReleaseUpdate;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
 
 import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
@@ -22,8 +21,6 @@ public class SoundMuffler extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
-        DrakesLabsReleaseUpdate.schedule(this, "SoundMuffler-drake");
-
         if (!new File(getDataFolder(), "config.yml").exists())
             saveDefaultConfig();
 
