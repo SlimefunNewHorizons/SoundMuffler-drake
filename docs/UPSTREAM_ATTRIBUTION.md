@@ -6,7 +6,15 @@ This repository is part of the [SlimefunNewHorizons](https://github.com/Slimefun
 
 | Author | Commits here | Source |
 |---|---|---|
-| _none verified yet_ | | |
+| [Slimefun-Addon-Community](https://github.com/Slimefun-Addon-Community) | n/a | Upstream project [Slimefun-Addon-Community/SoundMuffler](https://github.com/Slimefun-Addon-Community/SoundMuffler) |
+| [J3fftw1](https://github.com/J3fftw1) | n/a | GitHub contributors / project history |
+| [WalshyDev](https://github.com/WalshyDev) | n/a | GitHub contributors / project history |
+| [poma123](https://github.com/poma123) | n/a | GitHub contributors / project history |
+| [Cyber-MC](https://github.com/Cyber-MC) | n/a | GitHub contributors / project history |
+| [ClayCoffee](https://github.com/ClayCoffee) | n/a | GitHub contributors / project history |
+| [Alessio-Colombo](https://github.com/Alessio-Colombo) | n/a | GitHub contributors / project history |
+| [TweepCoding](https://github.com/TweepCoding) | n/a | GitHub contributors / project history |
+| [TheBusyBiscuit](https://github.com/TheBusyBiscuit) | n/a | GitHub contributors / project history |
 
 Authors are taken from the repository history (GitHub contributors) and from the code itself (`plugin.yml`). If an original author is missing or wrongly credited, open an issue or mention [@JackStar6677-1](https://github.com/JackStar6677-1) and it will be fixed.
 
